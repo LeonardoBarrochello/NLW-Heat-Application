@@ -1,4 +1,4 @@
 node_modules
-yarn-error
+yarn-error.log
 # Keep environment variables out of version control
 .env
